@@ -1,0 +1,217 @@
+Result Set	Activate filter/data editor	Ctrl+Alt+Shift+T	Results viewer context	org.jkiss.dbeaver.core.resultset.focus.filter
+Navigate	Go to Line	Ctrl+L	Editing Text	org.eclipse.ui.edit.text.goto.line
+Text Editing	Insert Line Below Current Line	Shift+Enter	Editing Text	org.eclipse.ui.edit.text.smartEnter
+SQL Editor	Evaluate SQL expression	Ctrl+Alt+'	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.run.expression
+Edit	Toggle Insert Mode	Ctrl+Shift+Insert	Editing Text	org.eclipse.ui.edit.text.toggleInsertMode
+Views	Show View (Problems)	"Alt+Shift+Q, X"	In Windows	org.eclipse.ui.views.showView
+Text Editing	Text Start	Ctrl+Home	Editing Text	org.eclipse.ui.edit.text.goto.textStart
+Result Set	Switch presentation	Ctrl+`	Results viewer context	org.jkiss.dbeaver.core.resultset.switchPresentation
+View	Zoom In	Ctrl+=	In Windows	org.eclipse.gef.zoom_in
+Result Set	Inline edit	Enter	Results viewer context	org.jkiss.dbeaver.core.resultset.row.edit.inline
+Result Set	Duplicate row	Ctrl+Alt+Insert	Results viewer context	org.jkiss.dbeaver.core.resultset.row.copy
+SQL Editor	Toggle results panel	Ctrl+6	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.toggle.result.panel
+Text Editing	Text End	Ctrl+End	Editing Text	org.eclipse.ui.edit.text.goto.textEnd
+Result Set	Select column(s)	Ctrl+Alt+C	Results viewer context	org.jkiss.dbeaver.core.resultset.grid.selectColumn
+Database Navigator	Add Bookmark	Ctrl+Alt+Shift+D	Database navigator view context	org.jkiss.dbeaver.core.navigator.bookmark.add
+Result Set	Apply changes	Ctrl+S	Results viewer context	org.jkiss.dbeaver.core.resultset.applyChanges
+Result Set	Toggle result panels	F7	Results viewer context	org.jkiss.dbeaver.core.resultset.grid.togglePreview
+Entity Properties	Next Entity Properties tab	Alt+Shift+Down	In Windows	org.jkiss.dbeaver.entity.propsTab.nextPage
+SQL Editor	Execute SQL query	Ctrl+Enter	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.run.statement
+SQL Editor	Toggle Word Wrap	Ctrl+Alt+Shift+W	SQL Editor Context	org.jkiss.dbeaver.ui.editors.sql.word.wrap
+View	Zoom Out	Ctrl+-	In Windows	org.eclipse.gef.zoom_out
+Text Editing	Collapse	Ctrl+Numpad_Subtract	Editing Text	org.eclipse.ui.edit.text.folding.collapse
+Database Navigator	Edit task	Enter	In Windows	org.jkiss.dbeaver.task.edit
+Result Set	Copy from row below	Ctrl+Alt+D	Results viewer context	org.jkiss.dbeaver.core.resultset.row.copy.from.below
+Edit	Quick Fix	Ctrl+1	SQL Editor Context	org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals
+File	Close All	Ctrl+Shift+F4	In Windows	org.eclipse.ui.file.closeAll
+SQL Editor	Toggle Block Comment	Ctrl+Shift+/	SQL Editor Context	org.jkiss.dbeaver.ui.editors.sql.comment.multi
+Views	Show View (Search)	"Alt+Shift+Q, S"	In Windows	org.eclipse.ui.views.showView
+Text Editing	Delete Next Word	Ctrl+Delete	Editing Text	org.eclipse.ui.edit.text.deleteNextWord
+Result Set	First row	Ctrl+Alt+Shift+Left	Results viewer context	org.jkiss.dbeaver.core.resultset.row.first
+Quick Search	Quick Search	Ctrl+Alt+Shift+L	In Windows	org.eclipse.text.quicksearch.commands.quicksearchCommand
+Text Editing	Select Next Word	Ctrl+Shift+Right	Editing Text	org.eclipse.ui.edit.text.select.wordNext
+Window	Next View	Ctrl+F7	In Windows	org.eclipse.ui.window.nextView
+Result Set	Navigate link	Alt+Space	Results viewer context	org.jkiss.dbeaver.core.resultset.navigateLink
+Text Editing	Move Lines Up	Ctrl+Shift+Up	SQL Editor Context	org.eclipse.ui.edit.text.moveLineUp
+Entity Properties	Previous Entity Properties tab	Alt+Shift+Up	In Windows	org.jkiss.dbeaver.entity.propsTab.prevPage
+SQL Editor	Rename SQL Script	Ctrl+F2	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.rename
+Edit	Content Assist	Ctrl+Space	SQL Editor Context	org.eclipse.ui.edit.text.contentAssist.proposals
+SQL Editor	Execute queries in separate tabs	Ctrl+Alt+Shift+X	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.run.scriptNew
+Window	Show System Menu	Alt+-	In Windows	org.eclipse.ui.window.showSystemMenu
+Result Set	Toggle result panels	Ctrl+7	Results viewer context	org.jkiss.dbeaver.core.resultset.grid.togglePreview
+Connection	Commit	Ctrl+Alt+Shift+K	In Windows	org.jkiss.dbeaver.core.commit
+Connection	Open SQL script	Ctrl+[	DBeaver Perspective	org.jkiss.dbeaver.core.sql.editor.open
+Text Editing	Line Start	Home	Editing Text	org.eclipse.ui.edit.text.goto.lineStart
+Result Set	Next row	Ctrl+Alt+Right	Results viewer context	org.jkiss.dbeaver.core.resultset.row.next
+Navigate	Previous Edit Location	Ctrl+Alt+Left	In Windows	org.eclipse.ui.edit.text.gotoLastEditPosition
+Edit	Toggle Block Selection	Alt+Shift+A	Editing Text	org.eclipse.ui.edit.text.toggleBlockSelectionMode
+Text Editing	Reset Structure	Ctrl+Shift+Numpad_Multiply	Editing Text	org.eclipse.ui.edit.text.folding.restore
+Window	Switch to Editor	Ctrl+Shift+E	In Windows	org.eclipse.ui.window.switchToEditor
+File	Properties	Alt+Enter	In Windows	org.eclipse.ui.file.properties
+Connection	New SQL script	Ctrl+]	DBeaver Perspective	org.jkiss.dbeaver.core.sql.editor.create
+Navigate	Next Sub-Tab	Alt+PageDown	In Dialogs and Windows	org.eclipse.ui.navigate.nextSubTab
+Text Editing	Line End	End	Editing Text	org.eclipse.ui.edit.text.goto.lineEnd
+Text Editing	Insert Line Above Current Line	Ctrl+Shift+Enter	Editing Text	org.eclipse.ui.edit.text.smartEnterInverse
+Edit	Find Previous	Ctrl+Shift+K	In Windows	org.eclipse.ui.edit.findPrevious
+Edit	Context Information	Ctrl+Alt+Space	SQL Editor Context	org.eclipse.ui.edit.text.contentAssist.contextInformation
+Text Editing	Next Word	Ctrl+Right	Editing Text	org.eclipse.ui.edit.text.goto.wordNext
+Navigate	Previous Page	Alt+Shift+F7	In Windows	org.eclipse.ui.part.previousPage
+Result Set	Toggle Grid/Record view	Tab	Results viewer context	org.jkiss.dbeaver.core.resultset.toggleMode
+File	Open File...	Ctrl+O	In Windows	org.eclipse.ui.edit.text.openLocalFile
+SQL Editor	Maximize results panel	Ctrl+Shift+6	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.maximize.result.panel
+Edit	Word Completion	Alt+/	Editing Text	org.eclipse.ui.edit.text.hippieCompletion
+Edit	Toggle Word Wrap	Alt+Shift+Y	Editing Text	org.eclipse.ui.edit.text.toggleWordWrap
+File	Close	Ctrl+W	In Windows	org.eclipse.ui.file.close
+Text Editing	Scroll Line Up	Ctrl+Up	Editing Text	org.eclipse.ui.edit.text.scroll.lineUp
+SQL Editor	Open Declaration	F4	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.navigate.object
+Edit	Context Information	Ctrl+Shift+Space	In Dialogs and Windows	org.eclipse.ui.edit.text.contentAssist.contextInformation
+Edit	Incremental Find Reverse	Ctrl+Shift+J	Editing Text	org.eclipse.ui.edit.findIncrementalReverse
+SQL Editor	Close	Ctrl+Shift+\	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.close.tab
+File	Refresh	F5	In Windows	org.eclipse.ui.file.refresh
+Window	Quick Switch Editor	Ctrl+E	In Windows	org.eclipse.ui.window.openEditorDropDown
+File	Close	Ctrl+F4	In Windows	org.eclipse.ui.file.close
+File	Save	Ctrl+S	In Windows	org.eclipse.ui.file.save
+Result Set	Fetch Next Page	Ctrl+Alt+;	Results viewer context	org.jkiss.dbeaver.core.resultset.fetch.page
+Connection	Context tools	Alt+`	In Windows	org.jkiss.dbeaver.ui.tools.menu
+Database Navigator	Set as default	Ctrl+Shift+A	In Windows	org.jkiss.dbeaver.core.navigator.set.default
+Text Editing	Zoom Out	Ctrl+-	Editing Text	org.eclipse.ui.edit.text.zoomOut
+Connection	Generate UUID	Ctrl+Alt+Shift+U	In Windows	org.jkiss.dbeaver.core.generate.uuid
+Result Set	Activate results/panel	Ctrl+Shift+7	Results viewer context	org.jkiss.dbeaver.core.resultset.grid.activatePreview
+Result Set	Toggle results sort order	Ctrl+2	Results viewer context	org.jkiss.dbeaver.core.resultset.toggleOrder
+Navigate	Open Resource	Ctrl+Shift+R	In Windows	org.eclipse.ui.navigate.openResource
+SQL Editor	Show server output	Ctrl+Shift+O	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.show.output
+Navigate	Next	Ctrl+.	In Windows	org.eclipse.ui.navigate.next
+Utility	Advanced Copy	Ctrl+Shift+C	In Windows	org.jkiss.dbeaver.core.edit.copy.special
+Text Editing	Expand	Ctrl+Numpad_Add	Editing Text	org.eclipse.ui.edit.text.folding.expand
+Navigate	Next Tab	Ctrl+PageDown	In Dialogs and Windows	org.eclipse.ui.navigate.nextTab
+Result Set	Add row	Alt+Insert	Results viewer context	org.jkiss.dbeaver.core.resultset.row.add
+File	Rename	F2	In Windows	org.eclipse.ui.edit.rename
+SQL Editor	Go to matching bracket	Ctrl+Shift+[	SQL Editor Context	org.jkiss.dbeaver.ui.editors.sql.gotoMatchingBracket
+SQL Editor	Execute SQL in new tab	Ctrl+\	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.run.statementNew
+Text Editing	To Upper Case	Ctrl+Shift+X	Editing Text	org.eclipse.ui.edit.text.upperCase
+Window	Previous Perspective	Ctrl+Shift+F8	In Windows	org.eclipse.ui.window.previousPerspective
+Window	Find Actions	Ctrl+3	In Windows	org.eclipse.ui.window.quickAccess
+Views	Show View (Console)	"Alt+Shift+Q, C"	In Windows	org.eclipse.ui.views.showView
+SQL Editor	Execute SQL script from the position	Alt+P	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.run.scriptFromPosition
+Edit	Quick Fix	Ctrl+1	In Dialogs and Windows	org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals
+Result Set	Previous row	Ctrl+Alt+Left	Results viewer context	org.jkiss.dbeaver.core.resultset.row.previous
+SQL Editor	Select all rows	Ctrl+Alt+Shift+A	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.run.all.rows
+Result Set	Edit cell	Shift+Enter	Results viewer context	org.jkiss.dbeaver.core.resultset.row.edit
+Result Set	Apply cell changes	Ctrl+Alt+Shift+Enter	Results edit context	org.jkiss.dbeaver.core.resultset.cell.save
+Window	Show Ruler Context Menu	Ctrl+F10	Editing Text	org.eclipse.ui.edit.text.showRulerContextMenu
+Edit	Word Completion	Ctrl+Shift+Space	SQL Editor Context	org.eclipse.ui.edit.text.hippieCompletion
+Connection	Set active connection	Ctrl+9	In Windows	org.jkiss.dbeaver.ui.tools.select.connection
+Result Set	Delete current row	Alt+Delete	Results viewer context	org.jkiss.dbeaver.core.resultset.row.delete
+Window	Next Editor	Ctrl+F6	In Windows	org.eclipse.ui.window.nextEditor
+Text Editing	Duplicate Lines	Ctrl+Alt+Up	Editing Text	org.eclipse.ui.edit.text.copyLineUp
+Window	Toggle Split Editor (Horizontal)	Ctrl+_	In Windows	org.eclipse.ui.window.splitEditor
+Result Set	Set to default	Ctrl+Backspace	Results viewer context	org.jkiss.dbeaver.core.resultset.cell.setDefault
+SQL Editor	Toggle Line Comment	Ctrl+/	SQL Editor Context	org.jkiss.dbeaver.ui.editors.sql.comment.single
+Navigate	Previous	"Ctrl+,"	In Windows	org.eclipse.ui.navigate.previous
+Navigate	Previous Sub-Tab	Alt+PageUp	In Dialogs and Windows	org.eclipse.ui.navigate.previousSubTab
+Edit	Incremental Find	Ctrl+J	Editing Text	org.eclipse.ui.edit.findIncremental
+Text Editing	Select Line End	Shift+End	Editing Text	org.eclipse.ui.edit.text.select.lineEnd
+Edit	Find and Replace	Ctrl+F	In Windows	org.eclipse.ui.edit.findReplace
+Navigate	Collapse All	Ctrl+Shift+Numpad_Divide	In Windows	org.eclipse.ui.navigate.collapseAll
+Navigate	Next Edit Location	Ctrl+Alt+Right	In Windows	org.eclipse.ui.edit.text.gotoNextEditPosition
+Edit	Redo	Ctrl+Y	In Dialogs and Windows	org.eclipse.ui.edit.redo
+Help	Show Context Help	F1	In Windows	org.eclipse.ui.help.dynamicHelp
+ANSI Support Commands	Copy Text Without ANSI Escapes	Ctrl+Insert	In Console View	AnsiConsole.command.copy_without_escapes
+Edit	Select All	Ctrl+A	In Dialogs and Windows	org.eclipse.ui.edit.selectAll
+Connection	Edit Object	F4	Database navigator context	org.jkiss.dbeaver.core.object.open
+Text Editing	Join Lines	Ctrl+Alt+J	Editing Text	org.eclipse.ui.edit.text.join.lines
+Text Editing	Zoom In	Ctrl++	Editing Text	org.eclipse.ui.edit.text.zoomIn
+File	New menu	Alt+Shift+N	In Windows	org.eclipse.ui.file.newQuickMenu
+Text Editing	Show Tooltip Description	F2	Editing Text	org.eclipse.ui.edit.text.showInformation
+File	Print	Ctrl+P	In Windows	org.eclipse.ui.file.print
+Result Set	Filter by value	Ctrl+F11	Results viewer context	org.jkiss.dbeaver.core.resultset.filterMenu.distinct
+Text Editing	Toggle Overwrite	Insert	Editing Text	org.eclipse.ui.edit.text.toggleOverwrite
+Navigate	Go to Line	Ctrl+G	In Windows	org.eclipse.ui.edit.text.goto.line
+Text Editing	Join Lines	Ctrl+Shift+J	SQL Editor Context	org.eclipse.ui.edit.text.join.lines
+SQL Editor	Switch active panel	Ctrl+Alt+6	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.switch.panel
+Text Editing	Delete Previous Word	Ctrl+Backspace	Editing Text	org.eclipse.ui.edit.text.deletePreviousWord
+Search	Find Text in Workspace	Ctrl+Alt+G	In Windows	org.eclipse.search.ui.performTextSearchWorkspace
+Connection	Select active schema	Ctrl+0	In Windows	org.jkiss.dbeaver.ui.tools.select.schema
+Window	Previous Editor	Ctrl+Shift+F6	In Windows	org.eclipse.ui.window.previousEditor
+Window	Show View Menu	Ctrl+F10	In Dialogs and Windows	org.eclipse.ui.window.showViewMenu
+Connection	Open Database Object ...	Ctrl+Shift+D	In Windows	org.jkiss.dbeaver.core.object.goto
+Edit	Cut	Shift+Delete	In Dialogs and Windows	org.eclipse.ui.edit.cut
+Text Editing	Previous Word	Ctrl+Left	Editing Text	org.eclipse.ui.edit.text.goto.wordPrevious
+Edit	Paste	Shift+Insert	In Dialogs and Windows	org.eclipse.ui.edit.paste
+Navigate	Show In...	Alt+Shift+W	In Windows	org.eclipse.ui.navigate.showInQuickMenu
+Edit	Content Assist	Ctrl+Space	In Dialogs and Windows	org.eclipse.ui.edit.text.contentAssist.proposals
+Window	Show Key Assist	Ctrl+Shift+L	In Dialogs and Windows	org.eclipse.ui.window.showKeyAssist
+Navigate	Backward History	Alt+Left	In Windows	org.eclipse.ui.navigate.backwardHistory
+Navigate	Forward History	Alt+Right	In Windows	org.eclipse.ui.navigate.forwardHistory
+Edit	Paste	Ctrl+V	In Dialogs and Windows	org.eclipse.ui.edit.paste
+Text Editing	Expand All	Ctrl+Numpad_Multiply	Editing Text	org.eclipse.ui.edit.text.folding.expand_all
+Edit	Quick Diff Toggle	Ctrl+Shift+Q	Editing Text	org.eclipse.quickdiff.toggle
+Views	Show View (History)	"Alt+Shift+Q, Z"	In Windows	org.eclipse.ui.views.showView
+Text Editing	Delete Line	Ctrl+D	Editing Text	org.eclipse.ui.edit.text.delete.line
+Search	Open Search Dialog	Ctrl+H	In Windows	org.eclipse.search.ui.openSearchDialog
+Navigate	Previous Edit Location	Ctrl+Q	In Windows	org.eclipse.ui.edit.text.gotoLastEditPosition
+Edit	Copy	Ctrl+C	In Dialogs and Windows	org.eclipse.ui.edit.copy
+SQL Editor	Import SQL script	Ctrl+Alt+Shift+O	SQL Editor Context	org.jkiss.dbeaver.ui.editors.sql.open.file
+Edit	Undo	Ctrl+Z	In Dialogs and Windows	org.eclipse.ui.edit.undo
+Text Editing	Scroll Line Down	Ctrl+Down	Editing Text	org.eclipse.ui.edit.text.scroll.lineDown
+Text Editing	Move Lines Down	Ctrl+Shift+Down	SQL Editor Context	org.eclipse.ui.edit.text.moveLineDown
+Navigate	Previous Tab	Ctrl+PageUp	In Dialogs and Windows	org.eclipse.ui.navigate.previousTab
+SQL Editor	Execute SQL script	Alt+X	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.run.script
+SQL Editor	Select row count	Ctrl+Alt+Shift+C	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.run.count
+Text Editing	Copy Lines	Ctrl+Alt+Down	Editing Text	org.eclipse.ui.edit.text.copyLineDown
+Result Set	Fetch All Data	Ctrl+Shift+=	Results viewer context	org.jkiss.dbeaver.core.resultset.fetch.all
+SQL Editor	Next query	Alt+Down	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.query.next
+Result Set	Last row	Ctrl+Alt+Shift+Right	Results viewer context	org.jkiss.dbeaver.core.resultset.row.last
+Connection	Rollback	Ctrl+Alt+Shift+R	In Windows	org.jkiss.dbeaver.core.rollback
+Text Editing	Toggle Folding	Ctrl+Numpad_Divide	Editing Text	org.eclipse.ui.edit.text.folding.toggle
+Views	Show View (Outline)	"Alt+Shift+Q, O"	In Windows	org.eclipse.ui.views.showView
+Edit	Find Next	Ctrl+K	In Windows	org.eclipse.ui.edit.findNext
+Text Editing	Move Lines Down	Alt+Down	Editing Text	org.eclipse.ui.edit.text.moveLineDown
+SQL Editor	Previous query	Alt+Up	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.query.prev
+Text Editing	Move Lines Up	Alt+Up	Editing Text	org.eclipse.ui.edit.text.moveLineUp
+Utility	Advanced Paste ...	Ctrl+Shift+V	In Windows	org.jkiss.dbeaver.core.edit.paste.special
+SQL Editor	Execute SQL Script natively	Alt+N	SQL Script Editor Context	org.jkiss.dbeaver.core.sql.script.run.scriptNative
+View	Toggle hand tool	Tab	In Windows	org.jkiss.dbeaver.erd.toggleHand
+Window	Toggle Full Screen	Alt+F11	In Dialogs and Windows	org.eclipse.ui.window.fullscreenmode
+Window	Maximize Active View or Editor	Ctrl+M	In Windows	org.eclipse.ui.window.maximizePart
+Window	Show Contributing Plug-in	Alt+Shift+F3	In Dialogs and Windows	org.eclipse.ui.window.spy
+Result Set	Reject changes	Ctrl+R	Results viewer context	org.jkiss.dbeaver.core.resultset.rejectChanges
+Window	Activate Editor	F12	In Windows	org.eclipse.ui.window.activateEditor
+Connection	Recent SQL script	Ctrl+Enter	Database navigator context	org.jkiss.dbeaver.core.sql.editor.recent
+Window	Toggle Split Editor (Vertical)	Ctrl+{	In Windows	org.eclipse.ui.window.splitEditor
+Navigate	Expand All	Ctrl+Shift+Numpad_Multiply	In Windows	org.eclipse.ui.navigate.expandAll
+Edit	Copy	Ctrl+Insert	In Dialogs and Windows	org.eclipse.ui.edit.copy
+Connection	Open SQL console	Ctrl+Alt+Enter	Database navigator context	org.jkiss.dbeaver.core.sql.editor.console
+Connection	Open Dashboard	Ctrl+Alt+Shift+B	DBeaver Perspective	org.jkiss.dbeaver.ui.dashboard.open
+SQL Editor	Pin/unpin	Ctrl+Shift+P	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.toggle.pinned.tab
+Views	Show View (Synchronize)	"Alt+Shift+Q, Y"	In Windows	org.eclipse.ui.views.showView
+File	New	Ctrl+N	In Windows	org.eclipse.ui.newWizard
+Oracle	Compile	Ctrl+F9	In Windows	org.jkiss.dbeaver.ext.oracle.code.compile
+Text Editing	Select Line Start	Shift+Home	Editing Text	org.eclipse.ui.edit.text.select.lineStart
+SQL Editor	Content Format	Ctrl+Shift+F	In Windows	org.jkiss.dbeaver.ui.editors.text.content.format
+Database Navigator	Link with editor	"Ctrl+Shift+,"	In Windows	org.jkiss.dbeaver.core.navigator.linkeditor
+Views	Show View (Error Log)	"Alt+Shift+Q, L"	In Windows	org.eclipse.ui.views.showView
+Result Set	References	Ctrl+Shift+1	Results viewer context	org.jkiss.dbeaver.core.resultset.referencesMenu
+Quick Search	Quick Search	Ctrl+Alt+Shift+F	In Windows	org.eclipse.text.quicksearch.commands.quicksearchCommand
+SQL Editor	Set connection from navigator	Ctrl+Shift+.	Database navigator context	org.jkiss.dbeaver.ui.editors.sql.sync.connection
+Text Editing	Select Previous Word	Ctrl+Shift+Left	Editing Text	org.eclipse.ui.edit.text.select.wordPrevious
+Result Set	Reset cell changes	Esc	Results viewer context	org.jkiss.dbeaver.core.resultset.cell.reset
+Text Editing	To Lower Case	Ctrl+Shift+Y	Editing Text	org.eclipse.ui.edit.text.lowerCase
+Window	Next Perspective	Ctrl+F8	In Windows	org.eclipse.ui.window.nextPerspective
+Text Editing	Collapse All	Ctrl+Shift+Numpad_Divide	Editing Text	org.eclipse.ui.edit.text.folding.collapse_all
+Navigate	Next Page	Alt+F7	In Windows	org.eclipse.ui.part.nextPage
+Result Set	Copy from row above	Ctrl+D	Results viewer context	org.jkiss.dbeaver.core.resultset.row.copy.from.above
+Connection	Open SQL script	F3	DBeaver Perspective	org.jkiss.dbeaver.core.sql.editor.open
+File	Close All	Ctrl+Shift+W	In Windows	org.eclipse.ui.file.closeAll
+Result Set	Filter menu	F11	Results viewer context	org.jkiss.dbeaver.core.resultset.filterMenu
+Window	Previous View	Ctrl+Shift+F7	In Windows	org.eclipse.ui.window.previousView
+Connection	New SQL script	Ctrl+F3	DBeaver Perspective	org.jkiss.dbeaver.core.sql.editor.create
+SQL Editor	Explain Execution Plan	Ctrl+Shift+E	SQL Script Editor Context	org.jkiss.dbeaver.ui.editors.sql.run.explain
+Text Editing	Zoom In	Ctrl+=	Editing Text	org.eclipse.ui.edit.text.zoomIn
+File	Save All	Ctrl+Shift+S	In Windows	org.eclipse.ui.file.saveAll
+Edit	Cut	Ctrl+X	In Dialogs and Windows	org.eclipse.ui.edit.cut
+Project	Build All	Ctrl+B	In Windows	org.eclipse.ui.project.buildAll
+Text Editing	Delete to End of Line	Ctrl+Shift+Delete	Editing Text	org.eclipse.ui.edit.text.delete.line.to.end
+Result Set	Select row(s)	Ctrl+Alt+R	Results viewer context	org.jkiss.dbeaver.core.resultset.grid.selectRow
+Edit	Delete	Delete	In Windows	org.eclipse.ui.edit.delete
+Views	Show View	"Alt+Shift+Q, Q"	In Windows	org.eclipse.ui.views.showView
